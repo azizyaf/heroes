@@ -1,0 +1,30 @@
+{
+  "heroes": [
+    { "id": 1, "name": "Abdulaziz", "powers": "", "rating": 5 },
+    { "id": 2, "name": "Omar", "powers": "", "rating": 4 },
+    { "id": 3, "name": "Khalid", "powers": "", "rating": 5 },
+    { "id": 4, "name": "Ahmed", "powers": "", "rating": 4 },
+    { "id": 5, "name": "", "powers": "", "rating": 5 },
+    { "id": 6, "name": "", "powers": "", "rating": 4 },
+    { "id": 7, "name": "", "powers": "", "rating": 5 },
+    { "id": 8, "name": "", "powers": "", "rating": 4 },
+    { "id": 9, "name": "", "powers": "", "rating": 5 },
+    { "id": 10, "name": "", "powers": "", "rating": 4 },
+    { "id": 11, "name": "", "powers": "", "rating": 5 },
+    { "id": 12, "name": "", "powers": "", "rating": 4 },
+    { "id": 13, "name": "", "powers": "", "rating": 5 },
+    { "id": 14, "name": "", "powers": "", "rating": 4 },
+    { "id": 15, "name": "", "powers": "", "rating": 5 },
+    { "id": 16, "name": "", "powers": "", "rating": 4 },
+    { "id": 17, "name": "", "powers": "", "rating": 5 },
+    { "id": 18, "name": "", "powers": "", "rating": 4 },
+    { "id": 19, "name": "", "powers": "", "rating": 5 },
+    { "id": 20, "name": "", "powers": "", "rating": 4 },
+    { "id": 21, "name": "", "powers": "", "rating": 5 },
+    { "id": 22, "name": "", "powers": "", "rating": 4 },
+    { "id": 23, "name": "", "powers": "", "rating": 5 },
+    { "id": 24, "name": "", "powers": "", "rating": 4 },
+    { "id": 25, "name": "", "powers": "", "rating": 5 },
+    { "id": 26, "name": "", "powers": "", "rating": 4 }
+  ]
+}
